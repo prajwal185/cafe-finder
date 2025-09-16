@@ -1,0 +1,5 @@
+{
+  "name": "Cafe Finder",
+  "description": "An AI-powered application to discover cafes near any location you provide. Simply enter a city or neighborhood, and get a curated list of coffee shops with details and ratings.",
+  "requestFramePermissions": []
+}
